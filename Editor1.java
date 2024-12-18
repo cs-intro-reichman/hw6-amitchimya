@@ -1,5 +1,6 @@
 import java.awt.Color;
 
+
 /**
  * Demonstrates three basic image processing operations that are featured by Runigram.java.
  * The program recieves two command-line arguments: a string representing the name of the PPM file
